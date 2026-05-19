@@ -369,9 +369,7 @@ npm install
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
 
-Built with ❤️ for smart city monitoring
 
 ## 🙏 Acknowledgments
 
