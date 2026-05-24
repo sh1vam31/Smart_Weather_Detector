@@ -36,7 +36,7 @@ A modern, full-stack web application for monitoring real-time environmental data
 - Air quality metrics visualization
 - Responsive metric cards with real-time updates
 
-### 🎨 User Experience
+###  User Experience
 - **Dark/Light Mode**: Toggle between themes with persistent preferences
 - **Auto-Refresh**: Configurable automatic data updates
 - **City Search**: Intelligent location search with autocomplete
@@ -44,7 +44,7 @@ A modern, full-stack web application for monitoring real-time environmental data
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Historical Data**: View and analyze past environmental trends
 
-### 🛠️ Technical Features
+###  Technical Features
 - Custom React hooks for data management
 - Context API for global state management
 - Error handling with fallback mock data
