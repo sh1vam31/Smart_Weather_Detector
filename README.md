@@ -1,4 +1,4 @@
-# 🌆 Smart City Dashboard
+#  Smart City Dashboard
 
 A modern, full-stack web application for monitoring real-time environmental data including weather conditions, air quality metrics, and historical trends for cities worldwide.
 
@@ -7,29 +7,29 @@ A modern, full-stack web application for monitoring real-time environmental data
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
 ![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC)
 
-## 🌐 Live Demo
+##  Live Demo
 [https://gsoc-assignm.vercel.app/](https://gsoc-assignm.vercel.app/)
 
-## 🖼️ Screenshots
+##  Screenshots
 ![Screenshot - Dashboard](frontend/src/assets/dashboard.png)
 ![Screenshot - City View](frontend/src/assets/historicalData.png)
 
-## ✨ Features
+##  Features
 
-### 🔐 Authentication System
+###  Authentication System
 - User registration and login with JWT authentication
 - Protected routes for authenticated users
 - MongoDB-based user management
 - Email domain validation (Gmail, Yahoo, Outlook, etc.)
 - Secure password hashing with bcrypt
 
-### 🌍 Real-Time Environmental Monitoring
+###  Real-Time Environmental Monitoring
 - **Current Weather Data**: Temperature, humidity, wind speed, pressure, visibility
 - **Air Quality Index (AQI)**: PM2.5, PM10, NO2, O3, SO2, CO levels
 - **Weather Forecasts**: 24-hour temperature predictions
 - **Multi-City Support**: Search and monitor any city worldwide
 
-### 📊 Data Visualization
+###  Data Visualization
 - Interactive charts using Chart.js
 - Temperature trends over time
 - Wind speed analysis
