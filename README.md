@@ -52,7 +52,7 @@ A modern, full-stack web application for monitoring real-time environmental data
 - Loading states and error messages
 - RESTful API architecture
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18.2** - UI library
@@ -76,7 +76,7 @@ A modern, full-stack web application for monitoring real-time environmental data
 - **AQICN API** - Air quality information
 - **Nominatim API** - Geocoding and location search (free, no API key required)
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Node.js (v16 or higher)
 - npm or yarn
@@ -84,7 +84,7 @@ A modern, full-stack web application for monitoring real-time environmental data
 - OpenWeatherMap API key
 - AQICN API key
 
-## 🔧 Installation
+##  Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -164,7 +164,7 @@ VITE_AUTO_REFRESH_INTERVAL=60000
 3. Get your connection string
 4. Add to `.env` file
 
-## 🎯 Running the Application
+##  Running the Application
 
 You need to run both the backend and frontend servers. Open two terminal windows:
 
@@ -185,7 +185,7 @@ npm run dev
 - **Backend API**: http://localhost:5002
 - **API Health Check**: http://localhost:5002/api/health
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 gsoc_assignm_my/
@@ -246,7 +246,7 @@ gsoc_assignm_my/
 └── README.md              # Project documentation
 ```
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Authentication
 - `POST /api/auth/signup` - Register new user
@@ -256,7 +256,7 @@ gsoc_assignm_my/
 ### Health Check
 - `GET /api/health` - Server status
 
-## 🎨 Available Scripts
+##  Available Scripts
 
 **Backend (run from `backend/` directory):**
 ```bash
@@ -271,7 +271,7 @@ npm run preview          # Preview production build
 npm run lint             # Run ESLint
 ```
 
-## 🌐 Features in Detail
+##  Features in Detail
 
 ### Dashboard Page
 - Real-time weather metrics display
@@ -296,7 +296,7 @@ npm run lint             # Run ESLint
 5. Token stored in localStorage
 6. Protected routes verify token before access
 
-## 🔒 Security Features
+##  Security Features
 
 - Password hashing with bcrypt (10 salt rounds)
 - JWT token-based authentication
@@ -305,7 +305,7 @@ npm run lint             # Run ESLint
 - Email domain validation
 - Secure password requirements (minimum 6 characters)
 
-## 🎯 Environment Variables
+##  Environment Variables
 
 | Variable | Description | Required |
 |----------|-------------|----------|
@@ -317,7 +317,7 @@ npm run lint             # Run ESLint
 | `VITE_DEFAULT_CITY` | Default city on load | No |
 | `VITE_AUTO_REFRESH_INTERVAL` | Auto-refresh interval (ms) | No |
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Backend Connection Issues
 ```
@@ -350,14 +350,14 @@ rm -rf node_modules package-lock.json
 npm install
 ```
 
-## 📱 Browser Support
+##  Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -369,7 +369,7 @@ npm install
 
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - OpenWeatherMap for weather data API
 - AQICN for air quality data
@@ -377,7 +377,7 @@ npm install
 - Chart.js for data visualization
 - TailwindCSS for styling utilities
 
-## 📞 Support
+##  Support
 
 For issues and questions:
 - Open an issue on GitHub
